@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>WhiteSquare.png</Source>
+      <Name>WhiteSquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\WhiteSquare.xnb</Output>
+      <Time>2013-01-18T21:04:59+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sliderButton.jpg</Source>
+      <Name>sliderButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\sliderButton.xnb</Output>
+      <Time>2013-01-25T01:52:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sliderBar.jpg</Source>
+      <Name>sliderBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\sliderBar.xnb</Output>
+      <Time>2013-01-27T19:13:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>PausedScreenBackground.jpg</Source>
+      <Name>PausedScreenBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\PausedScreenBackground.xnb</Output>
+      <Time>2013-01-29T10:34:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuBackground.jpg</Source>
+      <Name>MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\MenuBackground.xnb</Output>
+      <Time>2013-01-29T13:19:15+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Button.jpg</Source>
+      <Name>Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\Button.xnb</Output>
+      <Time>2013-01-30T01:01:43+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonPressed.jpg</Source>
+      <Name>ButtonPressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\ButtonPressed.xnb</Output>
+      <Time>2013-01-30T01:01:43+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-01-29T13:27:11+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2013-01-30T02:18:04+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLifeContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLifeContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Users\Desktop\Dropbox\Public\Game of Life\GameOfLife\GameOfLife\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-21T19:53:56.6823966+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
